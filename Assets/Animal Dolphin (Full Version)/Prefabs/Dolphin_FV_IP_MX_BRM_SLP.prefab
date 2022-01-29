@@ -1,0 +1,1282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &28593430687273080
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5062508354189092052}
+  m_Layer: 0
+  m_Name: Dolphin_Head_JawSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5062508354189092052
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 28593430687273080}
+  m_LocalRotation: {x: 0, y: 0, z: 0.17689957, w: 0.9842289}
+  m_LocalPosition: {x: -0.44680563, y: -0.9812175, z: 7.865459e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4225304779093738588}
+  m_Father: {fileID: 8486925304650437635}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &407435104075920076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 830619904547916034}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_11SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &830619904547916034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 407435104075920076}
+  m_LocalRotation: {x: -0.0007908583, y: -0.00008011994, z: -0.011106825, w: 0.999938}
+  m_LocalPosition: {x: -0.7285165, y: 0.014522076, z: -0.0007008557}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8898805431352694599}
+  m_Father: {fileID: 434375881298465206}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1241742366018955335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4524191157019621979}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_06SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4524191157019621979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241742366018955335}
+  m_LocalRotation: {x: -0.00040867363, y: -0.00011063915, z: -0.059873022, w: 0.9982059}
+  m_LocalPosition: {x: -0.64579153, y: 0.07579945, z: 0.0004582499}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2463530387093906324}
+  m_Father: {fileID: 8774940410540737391}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1714061415331439221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9043358761293094069}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_09SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9043358761293094069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714061415331439221}
+  m_LocalRotation: {x: -0.00007685201, y: 0.000016407388, z: 0.010612756, w: 0.9999437}
+  m_LocalPosition: {x: -0.76321745, y: 0.011962125, z: -0.0010803161}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 434375881298465206}
+  m_Father: {fileID: 3240901955383265856}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2493784549666599412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8577631289667977232}
+  m_Layer: 0
+  m_Name: Dolphin_l_Front_Fin_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8577631289667977232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2493784549666599412}
+  m_LocalRotation: {x: 0.0064256876, y: -0.03542622, z: 0.17835449, w: 0.98330736}
+  m_LocalPosition: {x: -0.571833, y: -0.018604513, z: 0.09220473}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2497575528171568013}
+  m_Father: {fileID: 9086477389696978850}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2502116253309295788
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4225304779093738588}
+  m_Layer: 0
+  m_Name: Dolphin_Head_JawEndSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4225304779093738588
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2502116253309295788}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7923651, y: -0.08455532, z: 5.471075e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5062508354189092052}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2832946798270951041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1002862118104664694}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_13SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1002862118104664694
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2832946798270951041}
+  m_LocalRotation: {x: -0.0023153124, y: -0.0016075328, z: 0.07684966, w: 0.9970387}
+  m_LocalPosition: {x: -0.67802435, y: 0.016607475, z: -0.0008562199}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8663318163009273123}
+  m_Father: {fileID: 8898805431352694599}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2990947746723075039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8663318163009273123}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_14SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8663318163009273123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2990947746723075039}
+  m_LocalRotation: {x: -0.0013611999, y: -0.0012343979, z: 0.08375347, w: 0.9964848}
+  m_LocalPosition: {x: -0.72327054, y: 0.025553813, z: -0.0010445327}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7233776104690315495}
+  m_Father: {fileID: 1002862118104664694}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3272487030971430351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2365619843223066035}
+  m_Layer: 0
+  m_Name: Dolphin_l_Front_Fin_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2365619843223066035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3272487030971430351}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4223753, y: -0.03414568, z: 0.09782684}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2497575528171568013}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3309857251529171035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3240901955383265856}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_08SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3240901955383265856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3309857251529171035}
+  m_LocalRotation: {x: -0.0002346553, y: 0.000050097333, z: 0.03240435, w: 0.9994748}
+  m_LocalPosition: {x: -0.7539093, y: -0.012515728, z: -0.00069246313}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9043358761293094069}
+  m_Father: {fileID: 2463530387093906324}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3773928649623645200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3773928649623547952}
+  m_Layer: 0
+  m_Name: RootMotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3773928649623547952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645200}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3017354827042937517}
+  m_Father: {fileID: 3773928649623548024}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3773928649623645214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3773928649623547966}
+  - component: {fileID: 3773928649626755420}
+  m_Layer: 0
+  m_Name: DOLPHIN_SLP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3773928649623547966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645214}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3773928649623548024}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &3773928649626755420
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645214}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ca9e0b942c7ffe14789e6cccb2a5f9fc, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  m_Bones:
+  - {fileID: 3017354827042937517}
+  - {fileID: 393562585679780550}
+  - {fileID: 4278981267088978988}
+  - {fileID: 8486925304650437635}
+  - {fileID: 5062508354189092052}
+  - {fileID: 4225304779093738588}
+  - {fileID: 2132265952156423859}
+  - {fileID: 4381205383324011173}
+  - {fileID: 1797948082932934999}
+  - {fileID: 2996445694571419704}
+  - {fileID: 4948329130130768464}
+  - {fileID: 8774940410540737391}
+  - {fileID: 4524191157019621979}
+  - {fileID: 2463530387093906324}
+  - {fileID: 3240901955383265856}
+  - {fileID: 9043358761293094069}
+  - {fileID: 434375881298465206}
+  - {fileID: 830619904547916034}
+  - {fileID: 8898805431352694599}
+  - {fileID: 1002862118104664694}
+  - {fileID: 8663318163009273123}
+  - {fileID: 9086477389696978850}
+  - {fileID: 8577631289667977232}
+  - {fileID: 2497575528171568013}
+  - {fileID: 2365619843223066035}
+  - {fileID: 1791326802334107064}
+  - {fileID: 3746997339970420549}
+  - {fileID: 7471170647315383538}
+  - {fileID: 7072405681634227479}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 3017354827042937517}
+  m_AABB:
+    m_Center: {x: 3.6775374, y: -0.8327918, z: -0.08578205}
+    m_Extent: {x: 7.8337293, y: 7.1930156, z: 7.4460306}
+  m_DirtyAABB: 0
+--- !u!1 &3773928649623645272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3773928649623548024}
+  - component: {fileID: 3773928649629398424}
+  - component: {fileID: 3355957821070784397}
+  - component: {fileID: 249262321451221481}
+  m_Layer: 0
+  m_Name: Dolphin_FV_IP_MX_BRM_SLP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3773928649623548024
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645272}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3773928649623547966}
+  - {fileID: 3773928649623547952}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &3773928649629398424
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645272}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400002, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  m_Animations:
+  - {fileID: 7400002, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400004, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400006, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400008, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400010, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400012, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400014, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400016, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400018, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400020, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400022, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400024, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400026, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400028, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400030, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400032, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400034, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400036, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400038, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400040, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400042, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400044, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400046, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400048, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400050, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400052, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400054, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400056, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400058, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400060, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400062, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400064, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400066, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 8502846775675945215, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400070, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400072, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400074, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400076, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400078, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400080, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400082, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400084, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400086, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400088, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400090, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400092, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400094, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400096, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400098, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400100, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400102, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400104, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400106, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400108, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400110, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400112, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  - {fileID: 7400114, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 1
+--- !u!205 &3355957821070784397
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645272}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: -0.09170151, y: -0.6878958, z: -3.097228}
+  m_Size: 16.335997
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.6
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 0}
+  - screenRelativeHeight: 0.3
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 0}
+  - screenRelativeHeight: 0.1
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 3773928649626755420}
+  m_Enabled: 0
+--- !u!64 &249262321451221481
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3773928649623645272}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300004, guid: 28bf0b01a807843e49e8788b1ab76fcb, type: 3}
+--- !u!1 &3916871266510636276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 393562585679780550}
+  m_Layer: 0
+  m_Name: Dolphin_Neck_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &393562585679780550
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3916871266510636276}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4337224, y: 0.0041473047, z: 1.9105224e-32}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4278981267088978988}
+  m_Father: {fileID: 3017354827042937517}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4010720934048081954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3017354827042937517}
+  m_Layer: 0
+  m_Name: Dolphin_ROOTSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3017354827042937517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4010720934048081954}
+  m_LocalRotation: {x: 0.013866314, y: 0.7069708, z: 0.013866314, w: 0.7069708}
+  m_LocalPosition: {x: -0, y: 1.1606511e-17, z: 0.6247977}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9086477389696978850}
+  - {fileID: 393562585679780550}
+  - {fileID: 1791326802334107064}
+  - {fileID: 4381205383324011173}
+  m_Father: {fileID: 3773928649623547952}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4465219481404074761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2497575528171568013}
+  m_Layer: 0
+  m_Name: Dolphin_l_Front_Fin_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2497575528171568013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4465219481404074761}
+  m_LocalRotation: {x: 0, y: 0, z: 0.03495307, w: 0.999389}
+  m_LocalPosition: {x: -0.61050576, y: -0.102575675, z: 0.08973625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2365619843223066035}
+  m_Father: {fileID: 8577631289667977232}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4470536756985376232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 434375881298465206}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_10SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &434375881298465206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4470536756985376232}
+  m_LocalRotation: {x: -0.00051246455, y: 0.0000059504987, z: 0.06530654, w: 0.99786514}
+  m_LocalPosition: {x: -0.5990179, y: 0.0015827642, z: 0.0005761594}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 830619904547916034}
+  m_Father: {fileID: 9043358761293094069}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4473201557007219530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1791326802334107064}
+  m_Layer: 0
+  m_Name: Dolphin_r_Front_Fin_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1791326802334107064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4473201557007219530}
+  m_LocalRotation: {x: -0.16428581, y: -0.13866332, z: -0.5109581, w: 0.83228874}
+  m_LocalPosition: {x: 0.17562072, y: -1.1091372, z: 0.95930874}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3746997339970420549}
+  m_Father: {fileID: 3017354827042937517}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4518277908923953482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1766827544567911763}
+  m_Layer: 0
+  m_Name: Dolphin_l_Eyes_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1766827544567911763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4518277908923953482}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0.79637253, y: -0.0917471, z: -1.1878387}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2132265952156423859}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4798345739313701637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7072405681634227479}
+  m_Layer: 0
+  m_Name: Dolphin_r_Front_Fin_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7072405681634227479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4798345739313701637}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.4223753, y: 0.03414568, z: -0.09782684}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7471170647315383538}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5008316605842413926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4381205383324011173}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4381205383324011173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5008316605842413926}
+  m_LocalRotation: {x: -0.02189602, y: 0.9997526, z: -0.00034810742, w: -0.0039082365}
+  m_LocalPosition: {x: 0.63161, y: 0.048087824, z: -0.0038253744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1797948082932934999}
+  m_Father: {fileID: 3017354827042937517}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5018997623681428427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8898805431352694599}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_12SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8898805431352694599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5018997623681428427}
+  m_LocalRotation: {x: -0.0015067763, y: -0.00043742039, z: 0.010004748, w: 0.99994874}
+  m_LocalPosition: {x: -0.6602249, y: -0.031865176, z: -0.00049790123}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1002862118104664694}
+  m_Father: {fileID: 830619904547916034}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5380645787650153042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4865359013446996553}
+  m_Layer: 0
+  m_Name: Dolphin_r_Eyes_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4865359013446996553
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5380645787650153042}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0.79637253, y: -0.0917471, z: 1.1878387}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2132265952156423859}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5536698811612104090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2463530387093906324}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_07SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2463530387093906324
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5536698811612104090}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.8177254, y: -0.008034827, z: -0.0010871738}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3240901955383265856}
+  m_Father: {fileID: 4524191157019621979}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5850497407310595863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7233776104690315495}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_15SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7233776104690315495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5850497407310595863}
+  m_LocalRotation: {x: 0.00045547454, y: 0.00048004574, z: -0.08432407, w: 0.9964382}
+  m_LocalPosition: {x: -0.66900533, y: 0.053433955, z: 0.001034995}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8663318163009273123}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5940943089031795349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4278981267088978988}
+  m_Layer: 0
+  m_Name: Dolphin_Neck_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4278981267088978988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5940943089031795349}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4337224, y: 0.0041473047, z: 7.518831e-33}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8486925304650437635}
+  m_Father: {fileID: 393562585679780550}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6316943041549224412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8486925304650437635}
+  m_Layer: 0
+  m_Name: Dolphin_Neck_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8486925304650437635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6316943041549224412}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4337224, y: 0.0041473047, z: -2.7117094e-32}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5062508354189092052}
+  - {fileID: 2132265952156423859}
+  m_Father: {fileID: 4278981267088978988}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6564275547176484455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3746997339970420549}
+  m_Layer: 0
+  m_Name: Dolphin_r_Front_Fin_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3746997339970420549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6564275547176484455}
+  m_LocalRotation: {x: 0.0064256876, y: -0.03542622, z: 0.17835449, w: 0.98330736}
+  m_LocalPosition: {x: 0.571833, y: 0.018604513, z: -0.09220473}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7471170647315383538}
+  m_Father: {fileID: 1791326802334107064}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7166893840972446970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9086477389696978850}
+  m_Layer: 0
+  m_Name: Dolphin_l_Front_Fin_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9086477389696978850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7166893840972446970}
+  m_LocalRotation: {x: 0.13866332, y: -0.16428581, z: 0.83228874, w: 0.510958}
+  m_LocalPosition: {x: 0.17562072, y: -1.1091372, z: -0.95930874}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8577631289667977232}
+  m_Father: {fileID: 3017354827042937517}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7599938657932838833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1797948082932934999}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1797948082932934999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7599938657932838833}
+  m_LocalRotation: {x: 0.0002179425, y: 2.686401e-13, z: -0.027771896, w: 0.9996143}
+  m_LocalPosition: {x: -0.93242085, y: 0.00004531768, z: -0.0022179002}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2996445694571419704}
+  m_Father: {fileID: 4381205383324011173}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7687113105183274053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8774940410540737391}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_05SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8774940410540737391
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7687113105183274053}
+  m_LocalRotation: {x: -0.00086450024, y: 0.00025226924, z: 0.13347813, w: 0.9910514}
+  m_LocalPosition: {x: -0.66854453, y: -0.017543714, z: 0.00022985722}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4524191157019621979}
+  m_Father: {fileID: 4948329130130768464}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8564366216333958101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2996445694571419704}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2996445694571419704
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8564366216333958101}
+  m_LocalRotation: {x: 0.0006190252, y: -0.000086330794, z: 0.058805987, w: 0.99826926}
+  m_LocalPosition: {x: -0.72506726, y: -0.022309823, z: -4.2349458e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4948329130130768464}
+  m_Father: {fileID: 1797948082932934999}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8856223564525962110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2132265952156423859}
+  m_Layer: 0
+  m_Name: Dolphin_Head_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2132265952156423859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8856223564525962110}
+  m_LocalRotation: {x: 0, y: -0, z: -0.70657045, w: 0.70764273}
+  m_LocalPosition: {x: -0.4694887, y: 0.56817037, z: 8.014318e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1766827544567911763}
+  - {fileID: 4865359013446996553}
+  m_Father: {fileID: 8486925304650437635}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8879188851067463575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7471170647315383538}
+  m_Layer: 0
+  m_Name: Dolphin_r_Front_Fin_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7471170647315383538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8879188851067463575}
+  m_LocalRotation: {x: 0, y: 0, z: 0.03495307, w: 0.999389}
+  m_LocalPosition: {x: 0.61050576, y: 0.102575675, z: -0.08973625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7072405681634227479}
+  m_Father: {fileID: 3746997339970420549}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9134487644475322544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4948329130130768464}
+  m_Layer: 0
+  m_Name: Dolphin_Tail_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4948329130130768464
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9134487644475322544}
+  m_LocalRotation: {x: 0.00027931837, y: -0.000039676528, z: -0.015449329, w: 0.9998807}
+  m_LocalPosition: {x: -0.70041287, y: 0.0071736285, z: -1.3403167e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8774940410540737391}
+  m_Father: {fileID: 2996445694571419704}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

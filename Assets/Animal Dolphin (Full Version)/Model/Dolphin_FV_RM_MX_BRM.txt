@@ -1,0 +1,57 @@
+0000-0000 Bind Pose
+0002-0031 loop Swimming
+0034-0094 loop Swimming 01
+0097-0145 loop Swimming With Jumping
+0148-0268 loop Swimming Look
+0271-0309 loop Swimming On Back
+0312-0341 loop Swimming Down
+0344-0373 loop Swimming Up
+0376-0406 loop Jumping
+0409-0447 loop Jumping High
+0450-0490 loop Swimming Vertical
+0493-0533 loop Swimming Back Vertical
+0536-0576 loop Turn Right360 Vertical
+0579-0619 loop Turn Left360 Vertical
+0622-0651 loop Turn Right90 Vertical
+0654-0683 loop Turn Left90 Vertical
+0686-0734 loop Sault On The Front    
+0737-0785 loop Sault On The Back   
+0788-0817 loop Turn Left
+0820-0849 loop Turn Right
+0852-0881 loop Swimming Diving
+0884-0913 loop Swimming Rising
+0916-0943 loop Attack Front Head
+0946-0976 loop Attack Down
+0979-1008 loop Attack Left
+1011-1040 loop Attack Right
+1043-1103 loop Strafe Left
+1106-1166 loop Strafe Right
+1169-1218 loop Eating Vertical
+1221-1339 loop Fight Idle
+1342-1361 loop Hit Left
+1362-1381 loop Hit Right
+1382-1402 loop Hit Front
+1403-1423 loop Hit Back
+1425-1454 loop swimming turn left tightly
+1457-1486 loop swimming turn right tightly
+1489-1518 loop swimming turn left widely
+1521-1550 loop swimming turn right widely
+1553-1613 loop swimming slowly turn left
+1616-1676 loop swimming slowly turn right
+1679-1799 loop swimming looking turn left
+1802-1922 loop swimming looking turn right
+1925-1955 loop swimming jumping turn left
+1958-1988 loop swimming jumping turn right
+1991-2039 loop swimming with jumping turn left
+2042-2090 loop swimming with jumping turn right
+2093-2133 loop swimming vertical turn left tightly
+2136-2176 loop swimming vertical turn right tightly
+2179-2219 loop swimming vertical turn left widely
+2222-2262 loop swimming vertical turn right widely
+2265-2305 loop swimming vertical back turn left
+2308-2348 loop swimming vertical back turn right
+2351-2391 loop swimming vertical back turn left widely
+2394-2434 loop swimming vertical back turn right widely
+2436-2501 Death01
+2502-2566 loop Death Drifting
+2568-2750 Death
