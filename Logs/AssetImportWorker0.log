@@ -1005,3 +1005,125 @@ Received Import Request.
 Start importing Assets/NRSDK/Demos/RGBCamera.unity using Guid(993f597e755bea3458ddb3a66c40bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9714f9a3039c05cf0ad47664c7519d') in 0.009246 seconds 
   Import took 0.012212 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 445.259814 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.009953 seconds 
+  Import took 0.013199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.322758 seconds.
+  path: Assets/Scenes/NRealSimpleSpawn.unity
+  artifactKey: Guid(eeb6949f1d548fe43b2fb25b93db8a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NRealSimpleSpawn.unity using Guid(eeb6949f1d548fe43b2fb25b93db8a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd732de16f465f1207cc70088c0912b04') in 0.011004 seconds 
+  Import took 0.013973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.509636 seconds.
+  path: Assets/NRSDK/Emulator
+  artifactKey: Guid(5b4ddc033bd0ff44a8e7ea32a675cae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Emulator using Guid(5b4ddc033bd0ff44a8e7ea32a675cae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185b063d806d7e0d82fe2c4076bfef41') in 0.012757 seconds 
+  Import took 0.015469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.732590 seconds.
+  path: Assets/NRSDK/Materials
+  artifactKey: Guid(6cf42480e9bf92244944828cfa596567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Materials using Guid(6cf42480e9bf92244944828cfa596567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbd5310f5033d9f6861ac76c9094dd18') in 0.013009 seconds 
+  Import took 0.016312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.581712 seconds.
+  path: Assets/NRSDK/Models
+  artifactKey: Guid(d3f180d1d48dc6f4ab910666e984738a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Models using Guid(d3f180d1d48dc6f4ab910666e984738a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664d78047e841a62b1303cff07f10db2') in 0.010830 seconds 
+  Import took 0.013387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.609524 seconds.
+  path: Assets/NRSDK/Prefabs
+  artifactKey: Guid(5daed1f840a858340a08cff471a493b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Prefabs using Guid(5daed1f840a858340a08cff471a493b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed37539b703c301af26761703fdcb205') in 0.009584 seconds 
+  Import took 0.012872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.048570 seconds.
+  path: Assets/NRSDK/Prefabs/FPSCanvas.prefab
+  artifactKey: Guid(67d84a29ffd5ca443ae62b9736795f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Prefabs/FPSCanvas.prefab using Guid(67d84a29ffd5ca443ae62b9736795f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.035598 seconds  code(4) message(Build asset version error: assets/nrsdk/prefabs/fpscanvas.prefab in SourceAssetDB has modification time of '2021-03-09T03:57:36Z' while content on disk has modification time of '2022-01-29T11:31:03.091295Z')
+  ERROR: Build asset version error: assets/nrsdk/prefabs/fpscanvas.prefab in SourceAssetDB has modification time of '2021-03-09T03:57:36Z' while content on disk has modification time of '2022-01-29T11:31:03.091295Z'
+  Import took 0.038062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046245 seconds.
+  path: Assets/NRSDK/Prefabs/FPSCanvas.prefab
+  artifactKey: Guid(67d84a29ffd5ca443ae62b9736795f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Prefabs/FPSCanvas.prefab using Guid(67d84a29ffd5ca443ae62b9736795f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a768cb5e7a2909d9d4e27b79b9c053') in 0.010809 seconds 
+  Import took 0.014047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.718888 seconds.
+  path: Assets/NRSDK/Prefabs/NRVirtualDisplayer.prefab
+  artifactKey: Guid(e0f440c4bb94be641af5dc113d3248f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Prefabs/NRVirtualDisplayer.prefab using Guid(e0f440c4bb94be641af5dc113d3248f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca45eb8d8a71d35f2079d6da648976e') in 0.040407 seconds 
+  Import took 0.044654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.621808 seconds.
+  path: Assets/NRSDK/Prefabs/NRInput.prefab
+  artifactKey: Guid(ad152f08ed7eb6e4abd93376a0203e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Prefabs/NRInput.prefab using Guid(ad152f08ed7eb6e4abd93376a0203e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a3b4836afe6dbc4099ad73e4a45b97') in 0.074167 seconds 
+  Import took 0.077500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.926534 seconds.
+  path: Assets/NRSDK/Prefabs/Hands
+  artifactKey: Guid(013cdf2ada37e2a43b943dbe2e91c266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Prefabs/Hands using Guid(013cdf2ada37e2a43b943dbe2e91c266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279f635710e0363ef8da508ad1c5fb28') in 0.008849 seconds 
+  Import took 0.012143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.022963 seconds.
+  path: Assets/NRSDK/Resources
+  artifactKey: Guid(664cd21be873fa943842536bb7616773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NRSDK/Resources using Guid(664cd21be873fa943842536bb7616773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5f7d1c050d6c464f39962890c11a7e') in 0.009904 seconds 
+  Import took 0.013229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1243.874146 seconds.
+  path: Assets/Scenes/NRealSimpleSpawn.unity
+  artifactKey: Guid(eeb6949f1d548fe43b2fb25b93db8a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NRealSimpleSpawn.unity using Guid(eeb6949f1d548fe43b2fb25b93db8a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc53533d52104fa29c33dbf9859cb39c') in 0.004440 seconds 
+  Import took 0.007901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.493944 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc6a57793832175af52172f983b3a09') in 0.010434 seconds 
+  Import took 0.014169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 653.216312 seconds.
+  path: Assets/Scenes/NRealSimpleSpawn.unity
+  artifactKey: Guid(eeb6949f1d548fe43b2fb25b93db8a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NRealSimpleSpawn.unity using Guid(eeb6949f1d548fe43b2fb25b93db8a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58ce670d2d7bb069660cc7f21d4edd5') in 0.005294 seconds 
+  Import took 0.009026 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
