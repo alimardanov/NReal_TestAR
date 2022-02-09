@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/NRSDK/Demos/HandTracking.unity
     guid: 7d33c4a3bc8da9745acac0e1d62c44bf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MR_Room.unity
     guid: 8b8af64e2f7c13e4facdf42e7101745b
+  - enabled: 1
+    path: Assets/Scenes/_controller.unity
+    guid: 6276eaf3e5e644e42a423ca225a5d825
   m_configObjects: {}
